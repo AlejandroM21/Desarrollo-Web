@@ -1,0 +1,303 @@
+ #topbar {
+        width: 1100px;
+        margin: 0 auto;
+        background-color: #FFFFFF;
+        height: 40px;
+        font-weight: bold;
+        font-size: 85%;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Helvetica, Arial, sans-serif;
+    }
+
+    #logo {
+        margin-top: 8px;
+        width: 84px;
+        height: 24px;
+        float: left;
+        margin-right: 8px;
+    }
+
+    #reg_text {
+
+        position: relative;
+        top: 13px;
+        padding-right: 70px;
+    }
+
+    #reg-img {
+        margin: 5px 5px;
+        width: 30px;
+        float: left;
+    }
+
+    .topbar-section {
+        float: left;
+        border-left: 1px #CCCCCC solid;
+        height: 100%;
+    }
+
+    .topbar-section:hover {
+        border-bottom: blue 3px solid;
+    }
+
+    .topbar_menu {
+        padding: 13px 15px 0px 15px;
+        height: 27px;
+    }
+
+    #more-img {
+        float: right;
+        margin-left: 50px;
+        margin-right: -10px;
+    }
+
+    #more {
+        border-right: 1px #CCCCCC solid;
+        margin-right: 15px
+    }
+
+    #lupa {
+        float: right;
+        height: 25px;
+        position: relative;
+        right: 45px;
+        top:-6px;
+    }
+
+    #search {
+        background: #E4E4E4;
+        font-weight: bold;
+        border: none;
+        height: 25px;
+        position: relative;
+        bottom: 6px;
+    }
+
+    .clear {
+        clear: both;
+    }
+
+    #bar_news {
+        background-color: #A91717;
+        /* width: 100%;
+        height: 45px;*/
+        border-top: 1px #CCCCCC solid;
+    }
+
+    #menu-new {
+        width: 1100px;
+        margin: 0 auto;
+    }
+
+    #menu-new h1 {
+        margin: 0;
+        padding: 0;
+        color: #ffff;
+        font-weight: normal;
+        padding-top: 5px;
+    }
+
+    #bar_news2 {
+        background-color: #BB1919;
+        width: 100%;
+        height: 35px;
+        margin: 0;
+        padding: 0;
+    }
+
+    #menu_news2 {
+        width: 1100px;
+        margin: 0 auto;
+    }
+
+    #menu_news2 a {
+        text-decoration: none;
+        color: #ffff;
+        font-size: 14px;
+        border-right: 1px solid #CCCCCC;
+        padding: 0px 5px;
+        position: relative;
+        top: 9px;
+    }
+
+    #menu_news2 a:hover {
+        border-bottom: 3px #ffff solid;
+    }
+
+    .no-border {
+        border-right: none !important;
+    }
+
+    #img_more2 {
+        margin-left: 5px;
+        position: relative;
+        top: 3px;
+    }
+
+    #hbody {
+        width: 1100px;
+        margin: 0 auto;
+    }
+
+    #hbody h4 {
+        border-bottom: 2px red solid;
+        font-weight: 600;
+        padding-bottom: 1px;
+        width: 93px;
+    }
+
+    #hbody h1:hover {
+        color: #1167A8;
+    }
+
+    #hbody a {
+        padding-left: 5px;
+        color: #a61b1b;
+        text-decoration: none;
+        border-left: 1px solid #cccccc;
+    }
+
+    #title-noti h1 {
+        color: black;
+        border-left: none;
+
+    }
+
+    #title-noti {
+        border: none !important;
+    }
+
+    #hbody a:hover {
+        text-decoration: underline;
+        color: #1167A8;
+    }
+
+    #hbody p {
+        color: #5a5a5a;
+        font-size: 85%;
+        float: left;
+    }
+
+    #img-reloj {
+        position: relative;
+        top: 4px;
+        height: 16px
+    }
+
+    #container1 {
+        float: left;
+        width: 600px;
+        border-right: 2px solid #cccccc;
+        padding-right: 13px;
+        margin-top: -36px
+    }
+
+    #container2 {
+        float: left;
+        width: 600px;
+        border-right: 2px solid #cccccc;
+        padding-right: 13px;
+        margin-top: -36px
+    }
+
+    #container3 {
+        float: left;
+        width: 600px;
+        border-right: 2px solid #cccccc;
+        padding-right: 13px;
+        margin-top: -36px
+    }
+
+    #container4 {
+        float: left;
+        width: 600px;
+        border-right: 2px solid #cccccc;
+        padding-right: 13px;
+        margin-top: -36px
+    }
+
+    #noti1 {
+        float: left;
+        width: 280px;
+        position: relative;
+        bottom: 16px;
+        text-align: justify;
+    }
+
+    #img-noti {
+        float: right;
+        width: 300px;
+    }
+
+    #hr1 {
+        border-top: #cccccc 2px solid;
+        position: relative;
+        top: 13px;
+        width: 600px
+    }
+
+    #hr2 {
+        border-top: #991717 2px solid;
+        position: relative;
+        bottom: 60px;
+        width: 35px;
+    }
+
+    #containerright {
+    	width: 1100px;
+        margin: 0 auto;
+        float: left;
+        width: 380px;
+        position: relative;
+        bottom: 880px;
+        margin-left: 13px;
+        color: #5a5a5a;
+    }
+
+    #containerright h2 {
+        color: black;
+    }
+
+    #p1 {
+        float: right;
+        width: 203px;
+        font-size:75%;
+        text-align: justify;
+    }
+
+    #p1 .text {
+        font-weight: bold;
+        color:black;
+        border:none;
+        padding-left: 0px;
+        
+
+    }
+
+    #containerright a {
+        padding-left: 5px;
+        color: #a61b1b;
+        text-decoration: none;
+        border-left: 1px solid #cccccc;
+       
+    }
+
+    #containerright a:hover {
+        text-decoration: underline;
+        color: #1167A8;
+    }
+
+    #img-reloj2 {
+        position: relative;
+        top: 4px;
+        height: 16px
+    }
+
+   ::marker { 
+  color: red;
+  font-size: 23px;
+}
